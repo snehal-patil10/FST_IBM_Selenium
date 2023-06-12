@@ -1,0 +1,181 @@
+2023-06-01 11:45:09,927 - nopCommerceDemoRun -INFO - ========Execution of scenario=======validate login and logout functionality with valid user credentials
+2023-06-01 11:45:16,855 - nopCommerceDemoRun -INFO - Application URLhttps://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-06-01 11:45:16,857 - nopCommerceDemoRun -INFO - enter emailadmin@yourstore.com
+2023-06-01 11:45:17,104 - nopCommerceDemoRun -INFO - enter passwordadmin
+2023-06-01 11:45:17,274 - nopCommerceDemoRun -INFO - click on Login button
+2023-06-01 11:45:23,991 - nopCommerceDemoRun -INFO - verify application title 
+2023-06-01 11:45:24,026 - nopCommerceDemoRun -INFO - actual application title: Dashboard / nopCommerce administration
+2023-06-01 11:45:27,048 - nopCommerceDemoRun -INFO - click on Logout button
+2023-06-01 11:45:31,602 - nopCommerceDemoRun -INFO - verify application title 
+2023-06-01 11:45:31,631 - nopCommerceDemoRun -INFO - actual application title: Your store. Login
+2023-06-01 11:45:34,879 - nopCommerceDemoRun -INFO - ========Execution of scenario completed=======validate login and logout functionality with valid user credentials
+2023-06-01 12:42:28,097 - nopCommerceDemoRun -INFO - ScnearioName: validate login functionality with multiple user
+2023-06-01 12:42:30,910 - nopCommerceDemoRun -INFO - ************* Launching Browser *****************
+2023-06-01 12:42:30,968 - nopCommerceDemoRun -INFO - ************* Opening URL  *****************
+2023-06-01 12:42:32,892 - nopCommerceDemoRun -INFO - ************* Prvding user and password *****************
+2023-06-01 12:42:32,893 - nopCommerceDemoRun -INFO - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:42:33,303 - nopCommerceDemoRun -INFO - ************* entered user and password on application $$$$*****************
+2023-06-01 12:42:33,306 - nopCommerceDemoRun -INFO - ************* click on login *****************
+2023-06-01 12:42:37,791 - nopCommerceDemoRun -INFO - ************* Login Passed *****************
+2023-06-01 12:42:40,835 - nopCommerceDemoRun -INFO - ************* clciking on logout *****************
+2023-06-01 12:42:45,504 - nopCommerceDemoRun -INFO - ************* Login Passed *****************
+2023-06-01 12:42:48,519 - nopCommerceDemoRun -INFO - ************* closing browser *****************
+2023-06-01 12:42:48,874 - nopCommerceDemoRun -INFO - ScnearioName: validate login functionality with multiple user
+2023-06-01 12:42:50,285 - nopCommerceDemoRun -INFO - ************* Launching Browser *****************
+2023-06-01 12:42:50,287 - nopCommerceDemoRun -INFO - ************* Opening URL  *****************
+2023-06-01 12:42:52,131 - nopCommerceDemoRun -INFO - ************* Prvding user and password *****************
+2023-06-01 12:42:52,131 - nopCommerceDemoRun -INFO - ************* user details: *****************admin123@yourstore.com : admin123
+2023-06-01 12:42:52,615 - nopCommerceDemoRun -INFO - ************* entered user and password on application $$$$*****************
+2023-06-01 12:42:52,616 - nopCommerceDemoRun -INFO - ************* click on login *****************
+2023-06-01 12:42:53,947 - nopCommerceDemoRun -INFO - ************* Login failed *****************
+2023-06-01 12:45:56,763 - nopCommerceDemoRun -INFO - ScnearioName: Search Customer by EMailID
+2023-06-01 12:46:00,882 - nopCommerceDemoRun -INFO - ************* Launching Browser *****************
+2023-06-01 12:46:00,921 - nopCommerceDemoRun -INFO - ************* Opening URL  *****************
+2023-06-01 12:46:03,641 - nopCommerceDemoRun -INFO - ************* Prvding user and password *****************
+2023-06-01 12:46:03,642 - nopCommerceDemoRun -INFO - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:46:04,112 - nopCommerceDemoRun -INFO - ************* entered user and password on application $$$$*****************
+2023-06-01 12:46:04,117 - nopCommerceDemoRun -INFO - ************* click on login *****************
+2023-06-01 12:46:08,948 - nopCommerceDemoRun -INFO - ********* Verifying Dashboad page title after login successful **************
+2023-06-01 12:46:11,990 - nopCommerceDemoRun -INFO - ********* Clicking on customer main menu **************
+2023-06-01 12:46:15,136 - nopCommerceDemoRun -INFO - ********* Clicking on customer sub menu **************
+2023-06-01 12:46:17,798 - nopCommerceDemoRun -INFO - ********* Searching customer details by Email **************
+2023-06-01 12:46:21,268 - nopCommerceDemoRun -INFO - ************* closing browser *****************
+2023-06-01 12:46:21,634 - nopCommerceDemoRun -INFO - ScnearioName: Search Customer by Name
+2023-06-01 12:46:23,043 - nopCommerceDemoRun -INFO - ************* Launching Browser *****************
+2023-06-01 12:46:23,050 - nopCommerceDemoRun -INFO - ************* Opening URL  *****************
+2023-06-01 12:46:24,323 - nopCommerceDemoRun -INFO - ************* Prvding user and password *****************
+2023-06-01 12:46:24,325 - nopCommerceDemoRun -INFO - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:46:24,714 - nopCommerceDemoRun -INFO - ************* entered user and password on application $$$$*****************
+2023-06-01 12:46:24,715 - nopCommerceDemoRun -INFO - ************* click on login *****************
+2023-06-01 12:46:28,932 - nopCommerceDemoRun -INFO - ********* Verifying Dashboad page title after login successful **************
+2023-06-01 12:46:31,951 - nopCommerceDemoRun -INFO - ********* Clicking on customer main menu **************
+2023-06-01 12:46:35,260 - nopCommerceDemoRun -INFO - ********* Clicking on customer sub menu **************
+2023-06-01 12:46:37,901 - nopCommerceDemoRun -INFO - ********* Searching customer details by Name **************
+2023-06-01 12:46:41,638 - nopCommerceDemoRun -INFO - ************* closing browser *****************
+2023-06-01 12:50:18,138 - nopCommerceDemoRun -INFO - ScnearioName: Search Customer by Name
+2023-06-01 12:50:18,134 - nopCommerceDemoRun -INFO - ScnearioName: Search Customer by EMailID
+2023-06-01 12:50:22,184 - nopCommerceDemoRun -INFO - ************* Launching Browser *****************
+2023-06-01 12:50:22,282 - nopCommerceDemoRun -INFO - ************* Opening URL  *****************
+2023-06-01 12:50:22,649 - nopCommerceDemoRun -INFO - ************* Launching Browser *****************
+2023-06-01 12:50:22,654 - nopCommerceDemoRun -INFO - ************* Opening URL  *****************
+2023-06-01 12:50:24,721 - nopCommerceDemoRun -INFO - ************* Prvding user and password *****************
+2023-06-01 12:50:24,722 - nopCommerceDemoRun -INFO - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:50:24,916 - nopCommerceDemoRun -INFO - ************* Prvding user and password *****************
+2023-06-01 12:50:24,918 - nopCommerceDemoRun -INFO - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:50:25,374 - nopCommerceDemoRun -INFO - ************* entered user and password on application $$$$*****************
+2023-06-01 12:50:25,377 - nopCommerceDemoRun -INFO - ************* click on login *****************
+2023-06-01 12:50:25,507 - nopCommerceDemoRun -INFO - ************* entered user and password on application $$$$*****************
+2023-06-01 12:50:25,513 - nopCommerceDemoRun -INFO - ************* click on login *****************
+2023-06-01 12:50:29,998 - nopCommerceDemoRun -INFO - ********* Verifying Dashboad page title after login successful **************
+2023-06-01 12:50:30,848 - nopCommerceDemoRun -INFO - ********* Verifying Dashboad page title after login successful **************
+2023-06-01 12:50:33,200 - nopCommerceDemoRun -INFO - ********* Clicking on customer main menu **************
+2023-06-01 12:50:33,872 - nopCommerceDemoRun -INFO - ********* Clicking on customer main menu **************
+2023-06-01 12:50:36,389 - nopCommerceDemoRun -INFO - ********* Clicking on customer sub menu **************
+2023-06-01 12:50:39,711 - nopCommerceDemoRun -INFO - ********* Searching customer details by Name **************
+2023-06-01 12:50:43,260 - nopCommerceDemoRun -INFO - ************* closing browser *****************
+2023-06-01 12:51:02,708 - nopCommerceDemoRun -INFO - ScnearioName: Search Customer by EMailID
+2023-06-01 12:51:02,702 - nopCommerceDemoRun -INFO - ScnearioName: Search Customer by Name
+2023-06-01 12:51:06,798 - nopCommerceDemoRun -INFO - ************* Launching Browser *****************
+2023-06-01 12:51:06,874 - nopCommerceDemoRun -INFO - ************* Opening URL  *****************
+2023-06-01 12:51:07,419 - nopCommerceDemoRun -INFO - ************* Launching Browser *****************
+2023-06-01 12:51:07,422 - nopCommerceDemoRun -INFO - ************* Opening URL  *****************
+2023-06-01 12:51:09,544 - nopCommerceDemoRun -INFO - ************* Prvding user and password *****************
+2023-06-01 12:51:09,545 - nopCommerceDemoRun -INFO - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:51:09,996 - nopCommerceDemoRun -INFO - ************* entered user and password on application $$$$*****************
+2023-06-01 12:51:09,997 - nopCommerceDemoRun -INFO - ************* click on login *****************
+2023-06-01 12:51:15,401 - nopCommerceDemoRun -INFO - ********* Verifying Dashboad page title after login successful **************
+2023-06-01 12:51:18,423 - nopCommerceDemoRun -INFO - ********* Clicking on customer main menu **************
+2023-06-01 12:51:21,579 - nopCommerceDemoRun -INFO - ********* Clicking on customer sub menu **************
+2023-06-01 12:51:22,949 - nopCommerceDemoRun -INFO - ********* Searching customer details by Email **************
+2023-06-01 12:51:35,702 - nopCommerceDemoRun -INFO - ScnearioName: Search Customer by Name
+2023-06-01 12:51:35,705 - nopCommerceDemoRun -INFO - ScnearioName: Search Customer by EMailID
+2023-06-01 12:51:40,158 - nopCommerceDemoRun -INFO - ************* Launching Browser *****************
+2023-06-01 12:51:40,343 - nopCommerceDemoRun -INFO - ************* Opening URL  *****************
+2023-06-01 12:51:40,664 - nopCommerceDemoRun -INFO - ************* Launching Browser *****************
+2023-06-01 12:51:40,670 - nopCommerceDemoRun -INFO - ************* Opening URL  *****************
+2023-06-01 12:51:42,265 - nopCommerceDemoRun -INFO - ************* Prvding user and password *****************
+2023-06-01 12:51:42,266 - nopCommerceDemoRun -INFO - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:51:42,981 - nopCommerceDemoRun -INFO - ************* Prvding user and password *****************
+2023-06-01 12:51:42,981 - nopCommerceDemoRun -INFO - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:51:43,040 - nopCommerceDemoRun -INFO - ************* entered user and password on application $$$$*****************
+2023-06-01 12:51:43,043 - nopCommerceDemoRun -INFO - ************* click on login *****************
+2023-06-01 12:51:43,521 - nopCommerceDemoRun -INFO - ************* entered user and password on application $$$$*****************
+2023-06-01 12:51:43,525 - nopCommerceDemoRun -INFO - ************* click on login *****************
+2023-06-01 12:51:47,267 - nopCommerceDemoRun -INFO - ********* Verifying Dashboad page title after login successful **************
+2023-06-01 12:51:48,177 - nopCommerceDemoRun -INFO - ********* Verifying Dashboad page title after login successful **************
+2023-06-01 12:51:50,285 - nopCommerceDemoRun -INFO - ********* Clicking on customer main menu **************
+2023-06-01 12:51:51,246 - nopCommerceDemoRun -INFO - ********* Clicking on customer main menu **************
+2023-06-01 12:51:53,399 - nopCommerceDemoRun -INFO - ********* Clicking on customer sub menu **************
+2023-06-01 12:51:54,410 - nopCommerceDemoRun -INFO - ********* Clicking on customer sub menu **************
+2023-06-01 12:51:56,387 - nopCommerceDemoRun -INFO - ********* Searching customer details by Email **************
+2023-06-01 12:51:57,642 - nopCommerceDemoRun -INFO - ********* Searching customer details by Name **************
+2023-06-01 12:51:59,989 - nopCommerceDemoRun -INFO - ************* closing browser *****************
+2023-06-01 12:52:01,269 - nopCommerceDemoRun -INFO - ************* closing browser *****************
+2023-06-01 12:52:32,664 - nopCommerceDemoRun -INFO - ScnearioName: Search Customer by Name
+2023-06-01 12:52:32,664 - nopCommerceDemoRun -INFO - ScnearioName: Search Customer by EMailID
+2023-06-01 12:52:32,664 - nopCommerceDemoRun -INFO - ScnearioName: Add new Customer
+2023-06-01 12:52:37,389 - nopCommerceDemoRun -INFO - ************* Launching Browser *****************
+2023-06-01 12:52:37,457 - nopCommerceDemoRun -INFO - ************* Opening URL  *****************
+2023-06-01 12:52:37,765 - nopCommerceDemoRun -INFO - ************* Launching Browser *****************
+2023-06-01 12:52:37,766 - nopCommerceDemoRun -INFO - ************* Launching Browser *****************
+2023-06-01 12:52:37,769 - nopCommerceDemoRun -INFO - ************* Opening URL  *****************
+2023-06-01 12:52:37,771 - nopCommerceDemoRun -INFO - ************* Opening URL  *****************
+2023-06-01 12:52:40,285 - nopCommerceDemoRun -INFO - ************* Prvding user and password *****************
+2023-06-01 12:52:40,285 - nopCommerceDemoRun -INFO - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:52:40,810 - nopCommerceDemoRun -INFO - ************* Prvding user and password *****************
+2023-06-01 12:52:40,811 - nopCommerceDemoRun -INFO - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:52:41,548 - nopCommerceDemoRun -INFO - ************* entered user and password on application $$$$*****************
+2023-06-01 12:52:41,550 - nopCommerceDemoRun -INFO - ************* click on login *****************
+2023-06-01 12:52:41,855 - nopCommerceDemoRun -INFO - ************* entered user and password on application $$$$*****************
+2023-06-01 12:52:41,861 - nopCommerceDemoRun -INFO - ************* click on login *****************
+2023-06-01 12:52:42,257 - nopCommerceDemoRun -INFO - ************* Prvding user and password *****************
+2023-06-01 12:52:42,258 - nopCommerceDemoRun -INFO - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:52:42,790 - nopCommerceDemoRun -INFO - ************* entered user and password on application $$$$*****************
+2023-06-01 12:52:42,791 - nopCommerceDemoRun -INFO - ************* click on login *****************
+2023-06-01 12:52:46,664 - nopCommerceDemoRun -INFO - ********* Verifying Dashboad page title after login successful **************
+2023-06-01 12:52:46,992 - nopCommerceDemoRun -INFO - ********* Verifying Dashboad page title after login successful **************
+2023-06-01 12:52:47,178 - nopCommerceDemoRun -INFO - ********* Verifying Dashboad page title after login successful **************
+2023-06-01 12:52:49,707 - nopCommerceDemoRun -INFO - ********* Clicking on customer main menu **************
+2023-06-01 12:52:50,009 - nopCommerceDemoRun -INFO - ********* Clicking on customer main menu **************
+2023-06-01 12:52:50,198 - nopCommerceDemoRun -INFO - ********* Clicking on customer main menu **************
+2023-06-01 12:52:53,143 - nopCommerceDemoRun -INFO - ********* Clicking on customer sub menu **************
+2023-06-01 12:53:03,098 - nopCommerceDemoRun -INFO - Email id uses for add customer page: KrdlZuxlsgq_demo@ibmlearning.com
+2023-06-01 12:53:21,718 - nopCommerceDemoRun -INFO - ********* Saving customer details **************
+2023-06-01 12:53:26,386 - nopCommerceDemoRun -INFO - ************* closing browser *****************
+2023-06-01 12:55:41,005 - nopCommerceDemoRun -INFO - ScnearioName: Search Customer by Name
+2023-06-01 12:55:41,022 - nopCommerceDemoRun -INFO - ScnearioName: Add new Customer
+2023-06-01 12:55:41,006 - nopCommerceDemoRun -INFO - ScnearioName: Search Customer by EMailID
+2023-06-01 12:55:46,910 - nopCommerceDemoRun -INFO - ************* Launching Browser *****************
+2023-06-01 12:55:47,109 - nopCommerceDemoRun -INFO - ************* Opening URL  *****************
+2023-06-01 12:55:48,298 - nopCommerceDemoRun -INFO - ************* Launching Browser *****************
+2023-06-01 12:55:48,301 - nopCommerceDemoRun -INFO - ************* Opening URL  *****************
+2023-06-01 12:55:48,320 - nopCommerceDemoRun -INFO - ************* Launching Browser *****************
+2023-06-01 12:55:48,322 - nopCommerceDemoRun -INFO - ************* Opening URL  *****************
+2023-06-01 12:55:50,436 - nopCommerceDemoRun -INFO - ************* Prvding user and password *****************
+2023-06-01 12:55:50,437 - nopCommerceDemoRun -INFO - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:55:51,009 - nopCommerceDemoRun -INFO - ************* Prvding user and password *****************
+2023-06-01 12:55:51,010 - nopCommerceDemoRun -INFO - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:55:51,502 - nopCommerceDemoRun -INFO - ************* entered user and password on application $$$$*****************
+2023-06-01 12:55:51,503 - nopCommerceDemoRun -INFO - ************* click on login *****************
+2023-06-01 12:55:51,573 - nopCommerceDemoRun -INFO - ************* Prvding user and password *****************
+2023-06-01 12:55:51,575 - nopCommerceDemoRun -INFO - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:55:52,217 - nopCommerceDemoRun -INFO - ************* entered user and password on application $$$$*****************
+2023-06-01 12:55:52,219 - nopCommerceDemoRun -INFO - ************* click on login *****************
+2023-06-01 12:55:52,495 - nopCommerceDemoRun -INFO - ************* entered user and password on application $$$$*****************
+2023-06-01 12:55:52,498 - nopCommerceDemoRun -INFO - ************* click on login *****************
+2023-06-01 12:55:59,032 - nopCommerceDemoRun -INFO - ********* Verifying Dashboad page title after login successful **************
+2023-06-01 12:55:59,113 - nopCommerceDemoRun -INFO - ********* Verifying Dashboad page title after login successful **************
+2023-06-01 12:55:59,433 - nopCommerceDemoRun -INFO - ********* Verifying Dashboad page title after login successful **************
+2023-06-01 12:56:02,212 - nopCommerceDemoRun -INFO - ********* Clicking on customer main menu **************
+2023-06-01 12:56:02,216 - nopCommerceDemoRun -INFO - ********* Clicking on customer main menu **************
+2023-06-01 12:56:03,132 - nopCommerceDemoRun -INFO - ********* Clicking on customer main menu **************
+2023-06-01 12:56:05,439 - nopCommerceDemoRun -INFO - ********* Clicking on customer sub menu **************
+2023-06-01 12:56:05,471 - nopCommerceDemoRun -INFO - ********* Clicking on customer sub menu **************
+2023-06-01 12:56:06,340 - nopCommerceDemoRun -INFO - ********* Clicking on customer sub menu **************
+2023-06-01 12:56:09,695 - nopCommerceDemoRun -INFO - ********* Searching customer details by Name **************
+2023-06-01 12:56:11,411 - nopCommerceDemoRun -INFO - ********* Searching customer details by Email **************
+2023-06-01 12:56:14,178 - nopCommerceDemoRun -INFO - ************* closing browser *****************
+2023-06-01 12:56:15,186 - nopCommerceDemoRun -INFO - ************* closing browser *****************
+2023-06-01 12:56:16,963 - nopCommerceDemoRun -INFO - Email id uses for add customer page: xKGbtsCNFXv_demo@ibmlearning.com
+2023-06-01 12:56:34,531 - nopCommerceDemoRun -INFO - ********* Saving customer details **************
+2023-06-01 12:56:38,558 - nopCommerceDemoRun -INFO - ************* closing browser *****************

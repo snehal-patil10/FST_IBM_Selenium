@@ -1,0 +1,181 @@
+2023-06-01 11:45:09,927 [main] INFO nopCommerceDemoRun - ========Execution of scenario=======validate login and logout functionality with valid user credentials
+2023-06-01 11:45:16,855 [main] INFO nopCommerceDemoRun - Application URLhttps://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2023-06-01 11:45:16,857 [main] INFO nopCommerceDemoRun - enter emailadmin@yourstore.com
+2023-06-01 11:45:17,104 [main] INFO nopCommerceDemoRun - enter passwordadmin
+2023-06-01 11:45:17,274 [main] INFO nopCommerceDemoRun - click on Login button
+2023-06-01 11:45:23,991 [main] INFO nopCommerceDemoRun - verify application title 
+2023-06-01 11:45:24,026 [main] INFO nopCommerceDemoRun - actual application title: Dashboard / nopCommerce administration
+2023-06-01 11:45:27,048 [main] INFO nopCommerceDemoRun - click on Logout button
+2023-06-01 11:45:31,602 [main] INFO nopCommerceDemoRun - verify application title 
+2023-06-01 11:45:31,631 [main] INFO nopCommerceDemoRun - actual application title: Your store. Login
+2023-06-01 11:45:34,879 [main] INFO nopCommerceDemoRun - ========Execution of scenario completed=======validate login and logout functionality with valid user credentials
+2023-06-01 12:42:28,097 [main] INFO nopCommerceDemoRun - ScnearioName: validate login functionality with multiple user
+2023-06-01 12:42:30,910 [main] INFO nopCommerceDemoRun - ************* Launching Browser *****************
+2023-06-01 12:42:30,968 [main] INFO nopCommerceDemoRun - ************* Opening URL  *****************
+2023-06-01 12:42:32,892 [main] INFO nopCommerceDemoRun - ************* Prvding user and password *****************
+2023-06-01 12:42:32,893 [main] INFO nopCommerceDemoRun - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:42:33,303 [main] INFO nopCommerceDemoRun - ************* entered user and password on application $$$$*****************
+2023-06-01 12:42:33,306 [main] INFO nopCommerceDemoRun - ************* click on login *****************
+2023-06-01 12:42:37,791 [main] INFO nopCommerceDemoRun - ************* Login Passed *****************
+2023-06-01 12:42:40,835 [main] INFO nopCommerceDemoRun - ************* clciking on logout *****************
+2023-06-01 12:42:45,504 [main] INFO nopCommerceDemoRun - ************* Login Passed *****************
+2023-06-01 12:42:48,519 [main] INFO nopCommerceDemoRun - ************* closing browser *****************
+2023-06-01 12:42:48,874 [main] INFO nopCommerceDemoRun - ScnearioName: validate login functionality with multiple user
+2023-06-01 12:42:50,285 [main] INFO nopCommerceDemoRun - ************* Launching Browser *****************
+2023-06-01 12:42:50,287 [main] INFO nopCommerceDemoRun - ************* Opening URL  *****************
+2023-06-01 12:42:52,131 [main] INFO nopCommerceDemoRun - ************* Prvding user and password *****************
+2023-06-01 12:42:52,131 [main] INFO nopCommerceDemoRun - ************* user details: *****************admin123@yourstore.com : admin123
+2023-06-01 12:42:52,615 [main] INFO nopCommerceDemoRun - ************* entered user and password on application $$$$*****************
+2023-06-01 12:42:52,616 [main] INFO nopCommerceDemoRun - ************* click on login *****************
+2023-06-01 12:42:53,947 [main] INFO nopCommerceDemoRun - ************* Login failed *****************
+2023-06-01 12:45:56,763 [main] INFO nopCommerceDemoRun - ScnearioName: Search Customer by EMailID
+2023-06-01 12:46:00,882 [main] INFO nopCommerceDemoRun - ************* Launching Browser *****************
+2023-06-01 12:46:00,921 [main] INFO nopCommerceDemoRun - ************* Opening URL  *****************
+2023-06-01 12:46:03,641 [main] INFO nopCommerceDemoRun - ************* Prvding user and password *****************
+2023-06-01 12:46:03,642 [main] INFO nopCommerceDemoRun - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:46:04,112 [main] INFO nopCommerceDemoRun - ************* entered user and password on application $$$$*****************
+2023-06-01 12:46:04,117 [main] INFO nopCommerceDemoRun - ************* click on login *****************
+2023-06-01 12:46:08,948 [main] INFO nopCommerceDemoRun - ********* Verifying Dashboad page title after login successful **************
+2023-06-01 12:46:11,990 [main] INFO nopCommerceDemoRun - ********* Clicking on customer main menu **************
+2023-06-01 12:46:15,136 [main] INFO nopCommerceDemoRun - ********* Clicking on customer sub menu **************
+2023-06-01 12:46:17,798 [main] INFO nopCommerceDemoRun - ********* Searching customer details by Email **************
+2023-06-01 12:46:21,268 [main] INFO nopCommerceDemoRun - ************* closing browser *****************
+2023-06-01 12:46:21,634 [main] INFO nopCommerceDemoRun - ScnearioName: Search Customer by Name
+2023-06-01 12:46:23,043 [main] INFO nopCommerceDemoRun - ************* Launching Browser *****************
+2023-06-01 12:46:23,050 [main] INFO nopCommerceDemoRun - ************* Opening URL  *****************
+2023-06-01 12:46:24,323 [main] INFO nopCommerceDemoRun - ************* Prvding user and password *****************
+2023-06-01 12:46:24,325 [main] INFO nopCommerceDemoRun - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:46:24,714 [main] INFO nopCommerceDemoRun - ************* entered user and password on application $$$$*****************
+2023-06-01 12:46:24,715 [main] INFO nopCommerceDemoRun - ************* click on login *****************
+2023-06-01 12:46:28,932 [main] INFO nopCommerceDemoRun - ********* Verifying Dashboad page title after login successful **************
+2023-06-01 12:46:31,951 [main] INFO nopCommerceDemoRun - ********* Clicking on customer main menu **************
+2023-06-01 12:46:35,260 [main] INFO nopCommerceDemoRun - ********* Clicking on customer sub menu **************
+2023-06-01 12:46:37,901 [main] INFO nopCommerceDemoRun - ********* Searching customer details by Name **************
+2023-06-01 12:46:41,638 [main] INFO nopCommerceDemoRun - ************* closing browser *****************
+2023-06-01 12:50:18,138 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ScnearioName: Search Customer by Name
+2023-06-01 12:50:18,134 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ScnearioName: Search Customer by EMailID
+2023-06-01 12:50:22,184 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* Launching Browser *****************
+2023-06-01 12:50:22,282 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* Opening URL  *****************
+2023-06-01 12:50:22,649 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* Launching Browser *****************
+2023-06-01 12:50:22,654 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* Opening URL  *****************
+2023-06-01 12:50:24,721 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* Prvding user and password *****************
+2023-06-01 12:50:24,722 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:50:24,916 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* Prvding user and password *****************
+2023-06-01 12:50:24,918 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:50:25,374 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* entered user and password on application $$$$*****************
+2023-06-01 12:50:25,377 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* click on login *****************
+2023-06-01 12:50:25,507 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* entered user and password on application $$$$*****************
+2023-06-01 12:50:25,513 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* click on login *****************
+2023-06-01 12:50:29,998 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ********* Verifying Dashboad page title after login successful **************
+2023-06-01 12:50:30,848 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ********* Verifying Dashboad page title after login successful **************
+2023-06-01 12:50:33,200 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ********* Clicking on customer main menu **************
+2023-06-01 12:50:33,872 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ********* Clicking on customer main menu **************
+2023-06-01 12:50:36,389 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ********* Clicking on customer sub menu **************
+2023-06-01 12:50:39,711 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ********* Searching customer details by Name **************
+2023-06-01 12:50:43,260 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* closing browser *****************
+2023-06-01 12:51:02,708 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ScnearioName: Search Customer by EMailID
+2023-06-01 12:51:02,702 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ScnearioName: Search Customer by Name
+2023-06-01 12:51:06,798 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* Launching Browser *****************
+2023-06-01 12:51:06,874 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* Opening URL  *****************
+2023-06-01 12:51:07,419 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* Launching Browser *****************
+2023-06-01 12:51:07,422 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* Opening URL  *****************
+2023-06-01 12:51:09,544 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* Prvding user and password *****************
+2023-06-01 12:51:09,545 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:51:09,996 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* entered user and password on application $$$$*****************
+2023-06-01 12:51:09,997 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* click on login *****************
+2023-06-01 12:51:15,401 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ********* Verifying Dashboad page title after login successful **************
+2023-06-01 12:51:18,423 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ********* Clicking on customer main menu **************
+2023-06-01 12:51:21,579 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ********* Clicking on customer sub menu **************
+2023-06-01 12:51:22,949 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ********* Searching customer details by Email **************
+2023-06-01 12:51:35,702 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ScnearioName: Search Customer by Name
+2023-06-01 12:51:35,705 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ScnearioName: Search Customer by EMailID
+2023-06-01 12:51:40,158 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* Launching Browser *****************
+2023-06-01 12:51:40,343 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* Opening URL  *****************
+2023-06-01 12:51:40,664 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* Launching Browser *****************
+2023-06-01 12:51:40,670 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* Opening URL  *****************
+2023-06-01 12:51:42,265 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* Prvding user and password *****************
+2023-06-01 12:51:42,266 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:51:42,981 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* Prvding user and password *****************
+2023-06-01 12:51:42,981 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:51:43,040 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* entered user and password on application $$$$*****************
+2023-06-01 12:51:43,043 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* click on login *****************
+2023-06-01 12:51:43,521 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* entered user and password on application $$$$*****************
+2023-06-01 12:51:43,525 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* click on login *****************
+2023-06-01 12:51:47,267 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ********* Verifying Dashboad page title after login successful **************
+2023-06-01 12:51:48,177 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ********* Verifying Dashboad page title after login successful **************
+2023-06-01 12:51:50,285 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ********* Clicking on customer main menu **************
+2023-06-01 12:51:51,246 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ********* Clicking on customer main menu **************
+2023-06-01 12:51:53,399 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ********* Clicking on customer sub menu **************
+2023-06-01 12:51:54,410 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ********* Clicking on customer sub menu **************
+2023-06-01 12:51:56,387 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ********* Searching customer details by Email **************
+2023-06-01 12:51:57,642 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ********* Searching customer details by Name **************
+2023-06-01 12:51:59,989 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* closing browser *****************
+2023-06-01 12:52:01,269 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* closing browser *****************
+2023-06-01 12:52:32,664 [TestNG-PoolService-2] INFO nopCommerceDemoRun - ScnearioName: Search Customer by Name
+2023-06-01 12:52:32,664 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ScnearioName: Search Customer by EMailID
+2023-06-01 12:52:32,664 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ScnearioName: Add new Customer
+2023-06-01 12:52:37,389 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* Launching Browser *****************
+2023-06-01 12:52:37,457 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* Opening URL  *****************
+2023-06-01 12:52:37,765 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* Launching Browser *****************
+2023-06-01 12:52:37,766 [TestNG-PoolService-2] INFO nopCommerceDemoRun - ************* Launching Browser *****************
+2023-06-01 12:52:37,769 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* Opening URL  *****************
+2023-06-01 12:52:37,771 [TestNG-PoolService-2] INFO nopCommerceDemoRun - ************* Opening URL  *****************
+2023-06-01 12:52:40,285 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* Prvding user and password *****************
+2023-06-01 12:52:40,285 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:52:40,810 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* Prvding user and password *****************
+2023-06-01 12:52:40,811 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:52:41,548 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* entered user and password on application $$$$*****************
+2023-06-01 12:52:41,550 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* click on login *****************
+2023-06-01 12:52:41,855 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* entered user and password on application $$$$*****************
+2023-06-01 12:52:41,861 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* click on login *****************
+2023-06-01 12:52:42,257 [TestNG-PoolService-2] INFO nopCommerceDemoRun - ************* Prvding user and password *****************
+2023-06-01 12:52:42,258 [TestNG-PoolService-2] INFO nopCommerceDemoRun - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:52:42,790 [TestNG-PoolService-2] INFO nopCommerceDemoRun - ************* entered user and password on application $$$$*****************
+2023-06-01 12:52:42,791 [TestNG-PoolService-2] INFO nopCommerceDemoRun - ************* click on login *****************
+2023-06-01 12:52:46,664 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ********* Verifying Dashboad page title after login successful **************
+2023-06-01 12:52:46,992 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ********* Verifying Dashboad page title after login successful **************
+2023-06-01 12:52:47,178 [TestNG-PoolService-2] INFO nopCommerceDemoRun - ********* Verifying Dashboad page title after login successful **************
+2023-06-01 12:52:49,707 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ********* Clicking on customer main menu **************
+2023-06-01 12:52:50,009 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ********* Clicking on customer main menu **************
+2023-06-01 12:52:50,198 [TestNG-PoolService-2] INFO nopCommerceDemoRun - ********* Clicking on customer main menu **************
+2023-06-01 12:52:53,143 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ********* Clicking on customer sub menu **************
+2023-06-01 12:53:03,098 [TestNG-PoolService-0] INFO nopCommerceDemoRun - Email id uses for add customer page: KrdlZuxlsgq_demo@ibmlearning.com
+2023-06-01 12:53:21,718 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ********* Saving customer details **************
+2023-06-01 12:53:26,386 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* closing browser *****************
+2023-06-01 12:55:41,005 [TestNG-PoolService-2] INFO nopCommerceDemoRun - ScnearioName: Search Customer by Name
+2023-06-01 12:55:41,022 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ScnearioName: Add new Customer
+2023-06-01 12:55:41,006 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ScnearioName: Search Customer by EMailID
+2023-06-01 12:55:46,910 [TestNG-PoolService-2] INFO nopCommerceDemoRun - ************* Launching Browser *****************
+2023-06-01 12:55:47,109 [TestNG-PoolService-2] INFO nopCommerceDemoRun - ************* Opening URL  *****************
+2023-06-01 12:55:48,298 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* Launching Browser *****************
+2023-06-01 12:55:48,301 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* Opening URL  *****************
+2023-06-01 12:55:48,320 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* Launching Browser *****************
+2023-06-01 12:55:48,322 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* Opening URL  *****************
+2023-06-01 12:55:50,436 [TestNG-PoolService-2] INFO nopCommerceDemoRun - ************* Prvding user and password *****************
+2023-06-01 12:55:50,437 [TestNG-PoolService-2] INFO nopCommerceDemoRun - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:55:51,009 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* Prvding user and password *****************
+2023-06-01 12:55:51,010 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:55:51,502 [TestNG-PoolService-2] INFO nopCommerceDemoRun - ************* entered user and password on application $$$$*****************
+2023-06-01 12:55:51,503 [TestNG-PoolService-2] INFO nopCommerceDemoRun - ************* click on login *****************
+2023-06-01 12:55:51,573 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* Prvding user and password *****************
+2023-06-01 12:55:51,575 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* user details: *****************admin@yourstore.com : admin
+2023-06-01 12:55:52,217 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* entered user and password on application $$$$*****************
+2023-06-01 12:55:52,219 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* click on login *****************
+2023-06-01 12:55:52,495 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* entered user and password on application $$$$*****************
+2023-06-01 12:55:52,498 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* click on login *****************
+2023-06-01 12:55:59,032 [TestNG-PoolService-2] INFO nopCommerceDemoRun - ********* Verifying Dashboad page title after login successful **************
+2023-06-01 12:55:59,113 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ********* Verifying Dashboad page title after login successful **************
+2023-06-01 12:55:59,433 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ********* Verifying Dashboad page title after login successful **************
+2023-06-01 12:56:02,212 [TestNG-PoolService-2] INFO nopCommerceDemoRun - ********* Clicking on customer main menu **************
+2023-06-01 12:56:02,216 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ********* Clicking on customer main menu **************
+2023-06-01 12:56:03,132 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ********* Clicking on customer main menu **************
+2023-06-01 12:56:05,439 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ********* Clicking on customer sub menu **************
+2023-06-01 12:56:05,471 [TestNG-PoolService-2] INFO nopCommerceDemoRun - ********* Clicking on customer sub menu **************
+2023-06-01 12:56:06,340 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ********* Clicking on customer sub menu **************
+2023-06-01 12:56:09,695 [TestNG-PoolService-2] INFO nopCommerceDemoRun - ********* Searching customer details by Name **************
+2023-06-01 12:56:11,411 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ********* Searching customer details by Email **************
+2023-06-01 12:56:14,178 [TestNG-PoolService-2] INFO nopCommerceDemoRun - ************* closing browser *****************
+2023-06-01 12:56:15,186 [TestNG-PoolService-1] INFO nopCommerceDemoRun - ************* closing browser *****************
+2023-06-01 12:56:16,963 [TestNG-PoolService-0] INFO nopCommerceDemoRun - Email id uses for add customer page: xKGbtsCNFXv_demo@ibmlearning.com
+2023-06-01 12:56:34,531 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ********* Saving customer details **************
+2023-06-01 12:56:38,558 [TestNG-PoolService-0] INFO nopCommerceDemoRun - ************* closing browser *****************
